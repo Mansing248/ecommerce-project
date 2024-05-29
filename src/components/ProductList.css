@@ -1,0 +1,30 @@
+.product-image {
+    width: 100%; /* Ensure images fill their container */
+    height: auto; /* Maintain aspect ratio */
+    border-radius: 5px; /* Add rounded corners */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
+  }
+  
+  .product-card {
+    margin-bottom: 20px; /* Add some space between cards */
+  }
+  
+  .product-title {
+    font-size: 18px;
+    margin-bottom: 5px;
+  }
+  
+  .product-price {
+    font-weight: bold;
+  }
+  .product-image-container {
+    width: 200px; /* Set the width of the image container */
+    height: 200px; /* Set the height of the image container */
+    overflow: hidden; /* Hide any overflow beyond the container */
+  }
+  
+  .product-image {
+    width: 100%; /* Ensure images fill their container */
+    height: auto; /* Maintain aspect ratio */
+  }
+  
