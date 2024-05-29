@@ -8,7 +8,7 @@ This is an e-commerce project built using React.js. It includes features such as
 2. **Product Listing**: 
    - List products with load more functionality.
    - Search bar with auto-suggestions and cached results.
-   - Filters for size, color, brand, etc.
+   - Filters for size
    - Sorting options for price and popularity.
    - Lazy loading for product categories.
 3. **Product Details**: View detailed information about each product.
