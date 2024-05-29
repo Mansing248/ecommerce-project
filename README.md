@@ -34,5 +34,5 @@ This is an e-commerce project built using React.js. It includes features such as
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
+   git clone https://github.com/Mansing248/ecommerce-project.git
+   cd ecommerce-project
